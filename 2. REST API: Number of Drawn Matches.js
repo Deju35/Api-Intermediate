@@ -17,7 +17,7 @@
             }
     }
     }
-    return draw
+    return draws;
 }
 
   
